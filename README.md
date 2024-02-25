@@ -7,7 +7,7 @@ This Next.js project features a financial dashboard designed to provide users wi
 * Security: HTTPS, SSL
 ## Installation ##
 1. Clone the repository:
-```git clone [repository link]```
+```git clone [[repository link]](https://github.com/daniilgustenko/financial-dashboard.git)```
 2. Install dependencies
 ```npm install```
 3. Start the project:
