@@ -7,7 +7,7 @@ This Next.js project, featured within the Next.js learning resources on Vercel's
 * Security: HTTPS, SSL
 ## Installation ##
 1. Clone the repository:
-```git clone [[repository link]](https://github.com/darthpenetratus/financial-dashboard.git)```
+```git clone https://github.com/darthpenetratus/financial-dashboard.git```
 2. Install dependencies
 ```npm install```
 3. Start the project:
